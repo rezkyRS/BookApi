@@ -1,0 +1,8 @@
+package com.example.book.dto.requestDto;
+
+import lombok.Data;
+
+@Data
+public class CategoryrequestDto {
+	private String name;
+}
